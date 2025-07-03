@@ -1,5 +1,7 @@
 # Mini-Project-on-Excel- ( Vrinda Store Annual Report 2025)
 
+A short review on a project.
+
 What I Did with the Data ( Data cleaning , data processing , data analysis, dashboard )
 
 1. Used Excel to study sales by state, gender, and month.
